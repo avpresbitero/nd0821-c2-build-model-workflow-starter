@@ -31,7 +31,11 @@ In this project you will build such a pipeline.
   * [Train the model on a new data sample](#train-the-model-on-a-new-data-sample)
 - [Cleaning up](#cleaning-up)
 
+
 ## Preliminary steps
+### Link to WandB project
+Go to [https://wandb.ai/avpresbitero/nyc_airbnb](https://wandb.ai/avpresbitero/nyc_airbnb)
+
 ### Fork the Starter kit
 Go to [https://github.com/udacity/nd0821-c2-build-model-workflow-starter](https://github.com/udacity/nd0821-c2-build-model-workflow-starter)
 and click on `Fork` in the upper right corner. This will create a fork in your Github account, i.e., a copy of the
